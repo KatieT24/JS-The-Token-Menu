@@ -11,7 +11,7 @@
 //3. git push
 
 
-// i created the player class to make the object of 'Player', the player gets to put in their name. 
+//NOTE i created the player class to make the object of 'Player', the player gets to put in their name. 
 
 class Player {
     constructor(nameValue, powerValue){
